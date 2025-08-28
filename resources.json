@@ -1,0 +1,25 @@
+{
+  "resources": [
+    {
+      "id": 1,
+      "title": "Panduan Keamanan Digital",
+      "type": "article",
+      "url": "https://github.com/dewa-4d/dewa4d-guides",
+      "description": "Tips dasar untuk menjaga keamanan data dan akun online."
+    },
+    {
+      "id": 2,
+      "title": "Tools Efisiensi Online",
+      "type": "tool",
+      "url": "https://github.com/dewa-4d/dewa4d-tools",
+      "description": "Kumpulan tools digital sederhana untuk mempermudah aktivitas sehari-hari."
+    },
+    {
+      "id": 3,
+      "title": "Referensi Eksternal",
+      "type": "link",
+      "url": "https://developer.mozilla.org/",
+      "description": "Dokumentasi web modern untuk pengembang."
+    }
+  ]
+}
